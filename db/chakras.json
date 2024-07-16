@@ -1,0 +1,44 @@
+{
+	"muladhara": {
+		"sans": "मूलाधार",
+		"trans": "mūlādhāra",
+		"title": "Muladhara",
+		"bija": "lam",
+		"text": "The Root Chakra. It is responsible for the basic survival of a living being. Associated with instinctive behavior and basic reflexes. This chakra grounds us to the earth and provides a foundation for our physical and emotional well-being. When balanced, it fosters a sense of security, stability, and trust."
+	},
+	"svadhisthana": {
+		"sans": "स्वाधिष्ठान",
+		"trans": "svādhiṣṭhāna",
+		"title": "Svadhisthana",
+		"bija": "vam",
+		"text": "The Sacral Chakra. It governs physical pleasure, including taste and sexual pleasure. This chakra is the center of creativity, emotions, and intimacy. It allows for the experience of joy, abundance, and the ability to form healthy relationships. A balanced Svadhisthana chakra enhances our capacity to enjoy life and embrace change."
+	},
+	"manipura": {
+		"sans": "मणिपूर",
+		"trans": "maṇipūra",
+		"title": "Manipura",
+		"bija": "ram",
+		"text": "The Solar Plexus Chakra. It directs and redistributes energy to achieve set goals. This chakra is the powerhouse of self-confidence, personal power, and transformation. It governs our sense of identity, self-esteem, and the ability to exert our will. A balanced Manipura chakra fuels our motivation and assertiveness."
+	},
+	"anahata": {
+		"sans": "अनाहत",
+		"trans": "anāhata",
+		"title": "Anahata",
+		"bija": "yam",
+		"text": "The Heart Chakra. It embodies maternal love and acceptance of other beings. This chakra is the center of compassion, love, and emotional balance. It fosters unconditional love, forgiveness, and empathy. A balanced Anahata chakra allows us to form deep, meaningful connections and maintain emotional health."
+	},
+	"vishuddhi": {
+		"sans": "विशुद्ध",
+		"trans": "viśuddha",
+		"title": "Vishuddhi",
+		"bija": "ham",
+		"text": "The Throat Chakra. Responsible for self-expression and mutual understanding on the level of ideas. This chakra governs communication, truth, and creativity. It enables us to articulate our thoughts clearly and honestly. A balanced Vishuddhi chakra enhances our ability to express ourselves and listen effectively."
+	},
+	"ajna": {
+		"sans": "आज्ञा",
+		"trans": "Ājñā",
+		"title": "Ajna",
+		"bija": "om",
+		"text": "The Third Eye Chakra. The bearer of wisdom and insight. The seat of pure consciousness within the body. This chakra is the center of intuition, foresight, and spiritual awareness. It helps us access inner wisdom, clarity, and higher states of consciousness. A balanced Ajna chakra opens the door to deeper understanding and enlightenment."
+	}
+}

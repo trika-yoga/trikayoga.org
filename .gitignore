@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+dist
+public/sitemap.xml
+.vitepress/.temp
+.vitepress/cache
