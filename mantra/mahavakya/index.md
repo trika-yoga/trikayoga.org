@@ -1,6 +1,6 @@
 ---
-title: Махавакья
-description: Великие изречения упанишад
+title: Mahāvākya
+description: Great Sayings of the Upanishads
 sans: महावाक्य
 trans: Mahāvākya
 tags: mantra
@@ -14,8 +14,8 @@ date: 2021-03-20
 
 prajñānam brahma {trans}
 
-Чистое сознание _(prajñānam)_ есть Абсолютная реальность _(brahma)_.
-— «Айтарея-упанишада» 3.3 «Ригведы»
+Pure consciousness _(prajñānam)_ is the Absolute Reality _(brahma)_.
+— "Aitareya Upanishad" 3.3 of the "Rigveda"
 
 :::
 ::: stanza
@@ -24,8 +24,8 @@ prajñānam brahma {trans}
 
 ahaṃ brahmāsmi {trans}
 
-Я _(ahaṃ)_ есть _(аsmi)_ Абсолютная реальность _(brahma)_.
-— «Брихадараньяка-упанишада» 1.4.10 «Яджурведы»
+I _(ahaṃ)_ am _(asmi)_ the Absolute Reality _(brahma)_.
+— "Brihadaranyaka Upanishad" 1.4.10 of the "Yajurveda"
 
 :::
 ::: stanza
@@ -34,8 +34,8 @@ ahaṃ brahmāsmi {trans}
 
 tat tvam asi {trans}
 
-То _(tat)_ ты _(tvam)_ еси _(asi)_.
-(«Чхандогья-упанишада» 6.8.7 «Самаведы»)
+That _(tat)_ you _(tvam)_ are _(asi)_.
+— "Chandogya Upanishad" 6.8.7 of the "Samaveda"
 
 :::
 ::: stanza
@@ -44,7 +44,7 @@ tat tvam asi {trans}
 
 ayam ātmā brahma {trans}
 
-Эта _(ayam)_ душа _(ātmā)_ есть Абсолютная реальность _(brahma)_.
-(«Мандукья-упанишад» 1.2 «Атхарваведы»)
+This _(ayam)_ soul _(ātmā)_ is the Absolute Reality _(brahma)_.
+— "Mandukya Upanishad" 1.2 of the "Atharvaveda"
 
 :::

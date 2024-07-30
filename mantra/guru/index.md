@@ -1,9 +1,9 @@
 ---
-title: Гураве мантра
+title: Gurave Mantra
 tags: mantra
 sans: ॐ नमः शिवाय गुरवे   
 trans: Om̐ namaḥ śivāya gurave  
-description: Мантра Шиве как всепроникающему Гуру
+description: Mantra to Shiva as the all-pervading Guru
 date: 2021-03-03
 
 ---
@@ -15,15 +15,15 @@ date: 2021-03-03
 निष्प्रपञ्चाय शान्ताय      
 निरालम्बाय तेजसे ॥ {sans}
 
-Om̐ namaḥ śivāya gurave      
-saccidānanda mūrtaye ।    
-niṣprapañcāya śāntāya      
+Om̐ namaḥ śivāya gurave  
+saccidānanda mūrtaye ।  
+niṣprapañcāya śāntāya  
 nirālambāya tejase ॥ {trans}
 
-Ом. Приветствие гуру, который есть Шива.   
-Его форма — воплощения Бытия-Сознания-Блаженства.   
-Он трансцендентный, спокойный,   
-свободный от любой опоры и сияющий.   
+Om. Salutations to the Guru, who is Shiva.
+His form (mūrti) is the embodiment (mūrtaye) of Existence-Consciousness-Bliss (saccidānanda).
+He is transcendent (niṣprapañca), peaceful (śānta),
+free from any support (nirālamba) and radiant (tejas).
 
 ----
 

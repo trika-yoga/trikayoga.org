@@ -1,6 +1,6 @@
 ---
-title: Брахмарпана мантра
-description: Впервые встречается в 24 стихе в 4 главе Бхагавад гиты. 
+title: Brahmārpaṇa Mantra
+description: First encountered in verse 24 of chapter 4 in the Bhagavad Gita
 sans: ब्रह्मार्पणं मन्त्र
 trans: brahmārpaṇaṁ mantra
 tags: mantra
@@ -16,10 +16,7 @@ date: 2021-06-01
 brahmārpaṇaṃ brahmahavirbrahmāgnau brahmaṇā hutam |     
 brahmaiva tena gantavyaṃ brahmakarmmasamādhinā ||  {trans}
 
-Брахман - жертвенный сосуд, Брахман - жертвенное подношение, Брахман - огонь, в который приносится жертва,     
-[самим] Брахманом совершается жертвоприношение. Воистину Брахмана достигает тот, кто совершает это сосредоточение на Брахмане. 
+Brahman (brahmārpaṇaṃ) is the sacrificial vessel, Brahman (brahmahavir) is the sacrificial offering, Brahman (brahmāgnau) is the fire into which the offering is made,
+the offering is made by Brahman (brahmaṇā). Truly, Brahman (brahmaiva) is attained by the one who sees Brahman (brahmakarmasamādhinā) in every action.
 
 :::
-
-
-Традиционно произносится перед приемом пищи, предложением плодов своих действий божеству или перед жертвоприношением

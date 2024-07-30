@@ -1,6 +1,6 @@
 ---
 title: Панчабрахма мантра
-description: Мантра пяти брахм — пяти олицетворений Шивы, отвечающих за создание, поддержание, разрушение Вселенной, а также сокрытие и раскрытие своей истинной природы в ней.
+description: The mantra of the five Brahmas - five avatars of Shiva, responsible for the creation, maintenance, destruction of the Universe, as well as the concealment and revelation of their true nature in it.
 sans: पञ्चब्रह्मा मन्त्र
 trans: pañcabrahmā mantra
 tags: mantra
@@ -13,7 +13,7 @@ date: 2021-04-30
 
 sadyojāta {trans}
 
-### Садйоджата — Перворождённый — творение
+### Sadyojata — Primordial — Creation
 
 ॐ सद्योजातं प्रपद्यामि सद्योजाताय वै नमो नमः ।  
 भवे भवे नाति भवे भवस्व मां भवोद्भवाय नमः ॥ {sans}
@@ -21,8 +21,8 @@ sadyojāta {trans}
 оṃ sadyojātaṁ prapadyāmi sadyojātāya vai namo namaḥ  
 bhave bhave nāti bhave bhavasva māṁ bhavodbhavāya namaḥ {trans}
 
-Ищу прибежище в Перворожденном, почитаю Изначальную Причину рождений;  
-Не дай мне рождаться снова и снова; направь меня по ту сторону рождений.
+I seek refuge (prapadyāmi) in the Primordial (sadyojātaṁ), I pay homage (namo namaḥ) to the Primordial (sadyojātāya).
+Do not let me (māṁ) be born (bhave) again and again (bhave bhave); guide me beyond (bhavasva) births (bhave) to liberation (bhavodbhavāya).
 
 :::
 ::: stanza
@@ -31,7 +31,7 @@ bhave bhave nāti bhave bhavasva māṁ bhavodbhavāya namaḥ {trans}
 
 vāmadeva {trans}
 
-### Вамадева — Прекрасный бог — поддержание
+### Vamadeva — Beautiful God — Continuation
 
 ॐ वामदेवायनमो ज्येष्ठाय नमः श्रेष्ठाय नमो रुद्राय नमः कालाय नमः ।  
 कलविकरणाय नमो बलाय नमो बलविकरणाय नमो बलप्रमथनाय नमः ।  
@@ -41,8 +41,9 @@ oṃ vāmadevāya namo jyeṣṭhāya namaḥ śreṣṭhāya namo rudrāya nama
 kalavikaraṇāya namo balāya namo balavikaraṇāya namo balapramathanāya namaḥ
 sarvabhūtadamanāya namo manonmanāya namaḥ {trans}
 
-Великодушнейшему поклонение, Старейшему поклонение, Наилучшему поклонение, Рудре поклонение, Времени поклонение;  
-Непостижимейшему поклонение, Величайшей силе поклонение, Причине сил поклонение, Дарующему силы поклонение; Владыке существ поклонение, Источнику света поклонение.
+Homage (namo) to the Generous One (vāmadevāya), to the Eldest (jyeṣṭhāya), to the Best (śreṣṭhāya), homage to Rudra (rudrāya), homage to Time (kālāya);
+Homage to the incomprehensible (kalavikaraṇāya), to the Great Power (balāya), to the Cause of power (balavikaraṇāya), homage to the Grantor of strength (balapramathanāya);
+Homage to the Lord of beings (sarvabhūtadamanāya), homage to the Source of mind (manonmanāya).
 
 :::
 ::: stanza
@@ -51,7 +52,7 @@ sarvabhūtadamanāya namo manonmanāya namaḥ {trans}
 
 aghora {trans}
 
-### Агхора — Бесстрашный — разрушение
+### Aghora — Fearless — Destruction
 
 ॐ अघोरेभ्योऽथ घोरेभ्यो अघोरघोरेतरेभ्यः ।  
 सर्वतः शर्वः सर्वेभ्यो नमस्ते रुद्र रूपेभ्यः ॥ {sans}
@@ -59,8 +60,8 @@ aghora {trans}
 oṃ aghorebhyo’tha ghorebhyo aghoraghoretarebhyaḥ  
 sarvataḥ śarvaḥ sarvebhyo namaste rudra rūpebhyaḥ {trans}
 
-Поклонение Неужасному и ужасному, Тому, кто ужасающий и неужасающий одновременно.  
-Всегда и везде, о Шарва, почитаю Рудру во всех его формах.
+Homage (namaste) to the Fearless (aghorebhyo), to the terrible (ghorebhyo), to the one who is both terrible and not terrible (aghoraghoretarebhyaḥ).
+Always and everywhere (sarvataḥ), O Śarva (śarvaḥ), I honor (namaste) Rudra (rudra) in all his forms (rūpebhyaḥ).
 
 :::
 ::: stanza
@@ -69,7 +70,7 @@ sarvataḥ śarvaḥ sarvebhyo namaste rudra rūpebhyaḥ {trans}
 
 tatpuruṣa {trans}
 
-### Татпуруша — Высшее существо — самосокрытие, скрытая милость
+### Tatpurusha — Highest Being — Self-concealment
 
 ॐ तत्पुरुषाय विद्महे महादेवाय धीमहि ।  
 तन्नो रुद्रः प्रचोदयात् ॥ {sans}
@@ -77,8 +78,8 @@ tatpuruṣa {trans}
 oṃ tatpuruṣāya vidmahe mahādevāya dhīmahi
 tanno rudraḥ pracodayāt {trans}
 
-Познаем Высочайшего, будем медитировать на Величайшего -  
-Пусть приведет нас Рудра к просветлению.
+We know (vidmahe) the Supreme Being (tatpuruṣa), let us meditate (dhīmahi) on the Great God (mahādeva).
+May Rudra (rudraḥ) lead (pracodayāt) us to enlightenment.
 
 :::
 ::: stanza
@@ -87,7 +88,7 @@ tanno rudraḥ pracodayāt {trans}
 
 īsāna {trans}
 
-### Ишана — Владыка — самораскрытие, проявленная милость
+### Ishana — Lord — Grace
 
 ॐ ईशान सर्वविद्यानामीश्वरः सर्वभूतानां ब्रह्मादिपति ब्रह्मणोऽधिपतिर् ।  
 ब्रह्मा शिवो मे अस्तु स एव सदाशिव ओम् ॥ {sans}
@@ -96,14 +97,14 @@ oṃ īśāna sarvavidyānāmīśvaraḥ sarvabhūtānāṁ
 brahmādipati brahmaṇo’dhipatir ।  
 brahmā śivo me astu sa eva sadāśiva om ॥ {trans}
 
-Владыка знания и Господь всех существ, Цель всех учений и служений.  
-Он — истинное благо! Да пребудет со мной это Благо вовек!
+Lord (īsāna) of all knowledge (sarvavidyānām), the Lord of all beings (sarvabhūtānāṁ), the Chief (brahmādipati) of the Brahmans (brahmaṇo'dhipatir).
+May Brahman (brahmā) and Shiva (śivaḥ) be with me (me astu), He who is eternally auspicious (sa eva sadāśiva) Om (om).
 
 :::
 
 ::: stanza
 
-### Шива намаскаратха мантра
+### Shiva Namaskaratha Mantra
 
 नमो हिरण्यबाहवे हिरण्यवर्णाय हिरण्यरूपाय हिरण्यपतये ।  
 अम्बिकापतय उमापतये पशुपतये नमो नमः ॥ {sans}
@@ -111,12 +112,13 @@ brahmā śivo me astu sa eva sadāśiva om ॥ {trans}
 namo hiraṇyabāhave hiraṇyavarṇāya hiraṇyarūpāya hiraṇyapataye ।  
 ambikāpataya umāpataye paśupataye namo namaḥ ॥ {trans}
 
-Ом. Склоняю голову и почитаю всем сердцем Божественную Сущность, Вечной Природы, Бессмертной формы, Вечный Господь, Господин Парвати и Умы, Повелитель диких животных [Природы], я предоставляю себя тебе.
+Homage (namo) to the Golden-armed (hiraṇyabāhave), to the Golden-colored (hiraṇyavarṇāya), to the Golden-formed (hiraṇyarūpāya), to the Golden Lord (hiraṇyapataye).
+To the Lord of Ambikā (ambikāpataye), to the Lord of Umā (umāpataye), to the Lord of all beings (paśupataye), homage (namo namaḥ).
 
 :::
 ::: stanza
 
-### Вишварупа мантра
+### Vishvarupa mantra
 
 ऋतँ सत्यं परं ब्रह्म पुरुषं कृष्णपिङ्गलम् ।  
 ऊर्ध्वरेतं विरूपाक्षं विश्वरूपाय वै नमो नमः ॥ {sans}
@@ -124,13 +126,13 @@ ambikāpataya umāpataye paśupataye namo namaḥ ॥ {trans}
 ṛtam̐ satyaṃ paraṃ brahma puruṣaṃ kṛṣṇapiṅgalam ।  
 ūrdhvaretaṃ virūpākśaṃ viśvarūpāya vai namo namaḥ ॥ {trans}
 
-Порядок вещей, Истину, Высший Брахман, Божественный дух, Черножёлтого,  
-Восходящее движение энергии, Видящего бесформенное, Имеющего форму Вселенной почитаю и поклоняюсь.
+Order (ṛtam̐), Truth (satyaṃ), the Supreme Brahman (paraṃ brahma), the Divine Spirit (puruṣaṃ), the Dark-gold one (kṛṣṇapiṅgalam),
+The one with ascending energy (ūrdhvaretaṃ), the one with diverse forms (virūpākṣaṃ), I honor and salute (namo namaḥ) the Universal Form (viśvarūpāya).
 
 :::
 ::: stanza
 
-### Рудра мантра
+### Rudra mantra
 
 सर्वो वै रुद्रस्तस्मै रुद्राय नमो अस्तु ।  
 पुरुषो वै रुद्रः सन्महो नमो नमः ।  
@@ -142,6 +144,11 @@ puruṣo vai rudraḥ sanmaho namo namaḥ ।
 viśvaṃ bhūtaṃ bhuvanaṃ citraṃ bahudhā jātaṃ jāyamānaṃ ca yat ।  
 sarvo hyeṣa rudrastasmai rudrāya namo astu ॥ {trans}
 
+Homage (namo astu) to Rudra (rudrāya) who is everything (sarvo vai).
+The person (puruṣo) is indeed Rudra (rudraḥ), homage (namo namaḥ) to the exalted one (sanmaho).
+To the universe (viśvaṃ), the beings (bhūtaṃ), the worlds (bhuvanaṃ), the diverse (citraṃ), the many-born (bahudhā jātaṃ), and those being born (jāyamānaṃ ca).
+He is indeed everything (sarvo) and all forms of Rudra (hyeṣa rudraḥ), to him (tasmai) homage (namo astu).
+
 कद्रुद्राय प्रचेतसे मीढुष्टमाय तव्यसे ।  
 वोचेम शंतमँ हृदे ।  
 सर्वोह्येष रुद्रस्तस्मै रुद्राय नमो अस्तु ॥ {sans}
@@ -149,6 +156,11 @@ sarvo hyeṣa rudrastasmai rudrāya namo astu ॥ {trans}
 kadrudrāya pracetase mīḍhuṣṭamāya tavyase ।  
 vocema śaṃtamam̐ hṛde ।  
 sarvohyeṣa rudrastasmai rudrāya namo astu ॥ {trans}
+
+To the Rudra (rudrāya) who is the essence of Rudra (kadrudrāya),
+To the perceptive one (pracetase), the supreme being (mīḍhuṣṭamāya) worthy of reverence (tavyase).
+We speak (vocema) the peaceful one (śaṃtamam̐) from the heart (hṛde).
+He is indeed all (sarvo) forms of Rudra (hyeṣa rudraḥ); to him (tasmai) homage (namo astu).
 
 :::
 

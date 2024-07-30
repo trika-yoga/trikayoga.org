@@ -1,6 +1,6 @@
 ---
-title: Махамритьюнджая мантра
-description: Мантра великого победителя смерти. Впервые встречается в Риг-веде (7.59.12) и повторяется в Тайттирия-самхите Кришна Яджур-веды (1.8.6) в Рудра-сукте.
+title: Mahāmṛtyuṃjaya Mantra
+description: Mantra of the Great Conqueror of Death. First encountered in the Rigveda (7.59.12) and repeated in the Taittiriya Samhita of Krishna Yajurveda (1.8.6) in the Rudra Sūkta.
 sans: महामृत्युंजय मंत्र
 trans: mahāmṛtyuṃjaya mantra
 tags: mantra
@@ -14,15 +14,15 @@ date: 2021-03-08
 tryambakaṃ yajāmahe sugandhiṃ puṣṭivardhanam ।     
 urvārukamiva bandhanān mṛtyormukṣīyamāmṛtāt ॥ {trans}
 
-Почитаем Трехокого Господа, Благоухающего, Питающего благом всех!   
-Как созревший огурец от стебля, так и нас да избавит Он от уз смерти ради Бессмертия!
+We worship (yajāmahe) the three-eyed (tryambakaṃ) Lord (Shiva), who is fragrant (sugandhim) and nourishes (puṣṭivardhanam) all beings.
+May He liberate (mukṣīya) us from the bondage (bandhanān) of worldly attachments (urvārukamiva) and death (mṛtyor), bestowing (mā) upon us the nectar of immortality (amṛtāt).
 
 <audio-player title="Rattan Mohan Sharma - Maha Mrityunjaya Mantra" file="/audio/Rattan-Mohan-Sharma-Maha-Mrityunjay-Mantra.mp3" />
 
 
-### Лагху мритьюнджая мантра
+### Laghu Mṛtyuṃjaya Mantra
 
-сокращенная форма Махамритьюнджая мантры
+A shorter form of the Mahāmṛtyuṃjaya Mantra
 
 ॐ ह्रौं जूं सः {sans big}
 

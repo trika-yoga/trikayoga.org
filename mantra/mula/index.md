@@ -1,6 +1,6 @@
 ---
-title: Мула мантра
-description: Коренная мантра
+title: Mūla Mantra
+description: Root Mantra
 sans: मूल मन्त्र
 trans: mūla mantra
 tags: mantra
@@ -22,12 +22,12 @@ puruṣottama paramātman ।
 śrī bhāgavatī sameta ।   
 śrī bhagavat namaḥ ॥ {trans}
 
-Бытие, Сознание и Блаженство — Наивысший Абсолют   
-Высшая душа — Наивысший Дух   
-Вместе с Великой Богиней   
-Поклон Великому Господу
+Being (sat), Consciousness (cit), and Bliss (ānanda) — the Supreme Absolute (parabrahman)
+The Supreme Soul (puruṣottama), the Highest Spirit (paramātman)
+Together with the Great Goddess (śrī bhāgavatī sameta)
+Salutations to the Great Lord (śrī bhagavat namaḥ)
 
 
-### Вариант аккомпанемента
+### Accompaniment Variation
 
-![no-shadow](./mula.svg 'Ноты для пения мула мантры')
+![no-shadow](./mula.svg 'Notes')

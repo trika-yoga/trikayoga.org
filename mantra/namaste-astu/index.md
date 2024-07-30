@@ -1,6 +1,6 @@
 ---
-title: Намасте асту бхагаван
-description: Приветствие Владыке
+title: Namaste Astu Bhagavan
+description: Salutations to the Lord
 sans: नमस्ते अस्तु भगवन्
 trans: namaste astu bhagavan
 tags: mantra
@@ -27,8 +27,8 @@ nilakaṇṭhāya mṛtyuṇjayāya ॥
 sarveśvarāya sadāśivāya ।  
 śrīmanmahādevāya namaḥ ॥ {trans}
 
-Приветствие тебе, о Бог.
-Владыке вселенной, всевышнему Богу, у кого три глаза, кто сжег три демонических города, кто — три периода времени, подобные огню, разрушителю огня времени, синегорлому, победителю смерти, повелителю всего, вечно благословлённому, наделенному всем благом Великому Богу поклон.
+Salutations (namaste) to You, O God (bhagavan).
+To the Lord of the universe (viśveśvarāya), the great God (mahādevāya), who has three eyes (tryambakāya), who destroyed the three cities (tripurāntakāya), who is the fire of the three times (trikālāgnikālāya), the Rudra who is the fire of time (kālāgni rudrāya), the blue-throated one (nilakaṇṭhāya), the conqueror of death (mṛtyuṇjayāya), the Lord of all (sarveśvarāya), the ever-auspicious one (sadāśivāya), to the venerable great God (śrīmanmahādevāya) salutations (namaḥ).
 
 :::
 

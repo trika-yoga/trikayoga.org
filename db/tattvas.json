@@ -93,8 +93,8 @@
 		"num": 26,
 		"sans": "पायु",
 		"trans": "Pāyu",
-		"title": "Испражнение",
-		"text": "Сила выделения, обычно циркулирующая в анусе.",
+		"title": "Excretion",
+		"text": "The power of evacuation, typically associated with the anus. In Kashmir Shaivism, Payu represents the ability to release and let go, both physically and spiritually. It symbolizes the purification process necessary for spiritual growth and the elimination of that which no longer serves one's higher purpose.",
 		"group": "karmendriya",
 		"bija": "lam"
 	},
@@ -104,8 +104,8 @@
 		"bija": "vam",
 		"sans": "उपस्थ",
 		"trans": "Upastha",
-		"title": "Удовлетворение",
-		"text": "Сила сексуальной активности и удовлетворения, обычно циркулирующая в гениталиях."
+		"title": "Delight",
+		"text": "The power of sexual activity and satisfaction, typically associated with the genitals. In the Trika system, Upastha represents the creative and regenerative forces of the universe. It symbolizes the union of Shiva and Shakti, the divine masculine and feminine energies, and the potential for spiritual transformation through the sublimation of sexual energy."
 	},
 	"pada": {
 		"num": 24,
@@ -113,8 +113,8 @@
 		"bija": "ram",
 		"sans": "पाद",
 		"trans": "Pāda",
-		"title": "Передвижение",
-		"text": "Сила передвижения, обычно циркулирующая в ногах и стопах."
+		"title": "Locomotion",
+		"text": "The power of movement, typically associated with the legs and feet. In yogic philosophy, Pada represents the journey of the soul towards self-realization. It symbolizes the spiritual path, the steps one takes towards enlightenment, and the ability to navigate through different states of consciousness."
 	},
 	"pani": {
 		"num": 23,
@@ -122,8 +122,8 @@
 		"bija": "yam",
 		"sans": "पाणि",
 		"trans": "Pāṇi",
-		"title": "Манипуляция",
-		"text": "Сила манипуляции, обычно циркулирующая в руках."
+		"title": "Manipulation",
+		"text": "The power of manipulation, typically associated with the hands. In Kashmir Shaivism, Pani represents the ability to create, transform, and interact with the material world. It symbolizes the manifestation of divine will into action and the skillful use of one's faculties in service of spiritual growth."
 	},
 	"vaak": {
 		"num": 22,
@@ -131,8 +131,8 @@
 		"bija": "ham",
 		"sans": "वाक्",
 		"trans": "Vāk",
-		"title": "Речь",
-		"text": "Сила говорения, обычно циркулирующая во рту."
+		"title": "Speech",
+		"text": "The power of speaking, typically associated with the mouth. In the Trika system, Vaak represents the creative power of sound and language. It symbolizes the manifestation of consciousness through vibration, the power of mantras, and the ability to express and comprehend spiritual truths."
 	},
 	"ghrana": {
 		"num": 21,
@@ -140,8 +140,8 @@
 		"bija": "lam",
 		"sans": "घ्राण",
 		"trans": "Ghrāṇa",
-		"title": "Обоняние",
-		"text": "Сила восприятия запаха, обычно циркулирующая в носу."
+		"title": "Nose",
+		"text": "Ghrāṇa represents the power of olfactory perception, typically associated with the nose. In Kashmir Shaivism, it symbolizes the subtle ability to discern the essence of reality through spiritual intuition. Ghrāṇa is connected to the earth element (prithvi) and its bija mantra 'lam', emphasizing grounding and stability in one's spiritual practice."
 	},
 	"jihva": {
 		"num": 20,
@@ -149,8 +149,8 @@
 		"bija": "vam",
 		"sans": "जिह्वा",
 		"trans": "Jihvā",
-		"title": "Вкус",
-		"text": "Сила восприятия вкуса, обычно циркулирующая в языке."
+		"title": "Tongue",
+		"text": "Jihvā embodies the power of gustatory perception, usually associated with the tongue. In the Trika system, it represents the capacity to savor the essence of spiritual experiences and discriminate between various states of consciousness. Jihvā is linked to the water element (apas) and its bija mantra 'vam', symbolizing fluidity and adaptability in one's spiritual journey."
 	},
 	"cakshus": {
 		"num": 19,
@@ -158,8 +158,8 @@
 		"bija": "ram",
 		"sans": "चक्षुस्",
 		"trans": "Cakṣus",
-		"title": "Зрение",
-		"text": "Сила видения, обычно циркулирующая в глазах."
+		"title": "Eyes",
+		"text": "Cakṣus denotes the power of visual perception, typically associated with the eyes. In Kashmir Shaivism, it signifies the ability to perceive the underlying unity of all existence beyond surface appearances. Cakṣus is connected to the fire element (agni) and its bija mantra 'ram', representing transformation and illumination in spiritual awareness."
 	},
 	"tvak": {
 		"num": 18,
@@ -167,8 +167,8 @@
 		"bija": "yam",
 		"sans": "त्वक्",
 		"trans": "Tvak",
-		"title": "Осязание",
-		"text": "Сила осязания, обычно циркулирующая в коже."
+		"title": "Skin",
+		"text": "Tvak embodies the power of tactile perception, usually associated with the skin. In the Trika philosophy, it symbolizes the capacity to feel the subtle vibrations of consciousness pervading all creation. Tvak is linked to the air element (vayu) and its bija mantra 'yam', emphasizing the importance of sensitivity and receptivity in spiritual practice."
 	},
 	"shrotra": {
 		"num": 17,
@@ -176,16 +176,16 @@
 		"bija": "ham",
 		"sans": "श्रोत्र",
 		"trans": "Śrotra",
-		"title": "Слух",
-		"text": "Сила слуха, обычно циркулирующая в ушах."
+		"title": "Ears",
+		"text": "Śrotra represents the power of auditory perception, typically associated with the ears. In Kashmir Shaivism, it signifies the ability to listen to the eternal sound of consciousness, often referred to as Nada or Anahata. Śrotra is connected to the space element (akasha) and its bija mantra 'ham', symbolizing the expansive nature of consciousness and the importance of inner stillness in spiritual realization."
 	},
 	"manas": {
 		"num": 16,
 		"group": "antahkarana",
 		"sans": "मनस्",
 		"trans": "Manas",
-		"title": "Ум",
-		"text": "Ум формирует сеть мыслей. Ум — источник и управитель Джянендрий (Сил восприятия) и Кармендрий (Сил действия). Одна из его функций — выпрямлять и раскрашивать примитивную картинку, формируемую сетчаткой глаза. Ум работает в двухмерном, а не трёхмерном пространстве. Задать третье измерение — это работа аханкары. Ум преимущественно тамасичен."
+		"title": "Mind",
+		"text": "Manas forms the network of thoughts and is the source and controller of both Jnanendriyas (powers of perception) and Karmendriyas (powers of action). One of its key functions is to interpret and enhance the basic image formed by the retina. Manas operates in a two-dimensional rather than three-dimensional space, with the third dimension being the domain of Ahankara. In Kashmir Shaivism, Manas is primarily associated with Tamas guna, representing inertia and dullness. It serves as the initial processing center for sensory inputs and action impulses."
 	},
 	"ahankara": {
 		"num": 15,
@@ -193,116 +193,116 @@
 		"sans": "अहङ्कार",
 		"trans": "Ahaṅkāra",
 		"title": "Эго",
-		"text": "Манас, индрии и танматры не только возникают из него, но все они постоянно поддерживаются асмитой. Главная её характеристика — “самоприсвоение”. Оно делает чистую Самость деятелем, “Ahaṅkāra” значит “Я-делатель”. Она связывает чистое Я, которое есть лишь свидетель, с конкретным действием или концепцией. Например, “Я делаю свою работу”, “Я строю здания”, “Я люблю тебя”, “Я беден” и т.д. Давайте уберем аханкару и предложения станут выглядеть так: “Работа делается”, “Здания строятся”, “Есть любовь для тебя”, “Существует бедность” и т.д. Аханкара также придаёт всему объем. Это причина этой трёхмерной Вселенной. Эго преимущественно раджасично."
+		"text": "Ahankara, meaning 'I-maker', is the principle of self-appropriation that binds the pure Self (which is merely a witness) to specific actions or concepts. It gives rise to and sustains Manas, Indriyas, and Tanmatras. Ahankara creates the sense of 'I-ness' in experiences, transforming neutral observations into personal actions or attributes. In Kashmir Shaivism, it's associated with the Rajas guna, representing activity and passion. Ahankara also provides the sense of three-dimensionality to our perception of the universe."
 	},
 	"buddhi": {
 		"num": 14,
 		"group": "antahkarana",
 		"sans": "बुद्धि",
 		"trans": "Buddhi",
-		"title": "Разум",
-		"text": "Он формирует определяющую способность, с помощью которой вы выбираете направление действий в вашей жизни. По простому, Буддхи — это интеллект. Это преимущественно саттвичная таттва, что означает, что Джняна (знание) преобладает в нём. Буддхи — также тот принцип, который позволяет вам абстрактно каталогизировать конкретные объекты, животных или личностей по чётким категориям. Например, “Это — собака”, “Это — шляпа”."
+		"title": "Intellect",
+		"text": "Buddhi forms the determining faculty through which one chooses the direction of actions in life. It's primarily a sattvic tattva, meaning that Jnana (knowledge) predominates in it. In Kashmir Shaivism, Buddhi is seen as the higher discriminative faculty that allows for abstract categorization of concrete objects, animals, or persons. It's the aspect of the Antahkarana closest to pure consciousness, capable of reflecting the light of the Self and making higher spiritual discernment possible."
 	},
 	"prakriti": {
 		"num": 13,
 		"sans": "प्रकृति",
 		"trans": "Prakṛti",
-		"title": "Природа",
-		"text": "Это просто состояние, в котором все три качества (Guṇa) остаются полностью сбалансированными. Три гуны — это саттва, раджас и тамас. Они известны также как Джняна-шакти, Иччха-шакти и Крия-шакти соответственно, претерпевшие еще одно сжатие. Когда Высший свидетель (Шива) покрыт вуалью Майи и её канчуками, Он “будто бы” превращается в Пурушу. Этот Пуруша созерцает Шакти и она предстаёт теперь сформированной из трёх сил, известных как гуны или качества. Ни Шива, ни Шакти в действительности не изменяются, но Шива, через добровольное самоограничение, меняет Свою точку зрения и начинает считать Себя ограниченой душой."
+		"title": "Nature",
+		"text": "In the Trika system, Prakṛti represents the state where the three qualities (Guṇas) - Sattva, Rajas, and Tamas - are in perfect equilibrium. These Guṇas are understood as condensed forms of Jñāna-śakti, Icchā-śakti, and Kriyā-śakti respectively. When the Supreme Witness (Shiva) is veiled by Māyā and its Kañcukas, He appears to become Puruṣa. This Puruṣa then perceives Śakti as composed of the three Guṇas. And these gunas interlace and create the whole universe in front of him. While neither Shiva nor Śakti actually change, Shiva, through voluntary self-limitation, shifts His perspective and begins to consider Himself a limited soul. This concept in Non-dual Shaivism illustrates the apparent differentiation within the ultimate non-dual reality."
 	},
 	"purusha": {
 		"num": 12,
 		"sans": "पुरुष",
 		"trans": "Puruṣa",
-		"title": "Дух",
-		"text": "Это Сам Шива, подвергнувшийся всем перечисленным ограничениям (Kañcuka). Несмотря на добровольное самоограничение, Шива при этом остаётся неизменным. Этот Пуруша — это внутреннее “Я” всех существ. В то время как оно является конечной целью философии Санкхья, Трика считет это только этапом инволюции/эволюции Шакти."
+		"title": "Spirit",
+		"text": "In Non-dual Shaivism, Puruṣa is understood as Shiva Himself, subject to all the aforementioned limitations (Kañcukas). Despite this voluntary self-limitation, Shiva remains fundamentally unchanged. The Trika system views Puruṣa as the inner Self of all beings, but considers it merely a stage in the involution/evolution of Śakti, rather than the ultimate goal as in Sāṃkhya philosophy. This concept in the Trika system illustrates how the absolute consciousness (Shiva) appears as individual consciousness, highlighting the non-dual nature of reality even in apparent duality."
 	},
 	"niyati": {
 		"num": 11,
 		"group": "kancuka",
 		"sans": "नियति",
 		"trans": "Niyati",
-		"title": "Судьба",
-		"text": "Формирует представление о связи причины и следствия, ведущее к представлению об обусловленном судьбой порядке вещей. Это Cicchakti (Сила знания) претерпевшая сжатие. Она вносит ошибочные суждения: “Если Я сделаю это, я получу соотвествующий результат”, “Я достоин”, “Я грешен” и т.д."
+		"title": "Destiny",
+		"text": "Niyati forms the notion of cause and effect, leading to a belief in a predetermined order of things. It's a contraction of Cicchakti (Power of Consciousness). Niyati introduces erroneous judgments like: 'If I do this, I'll get that result,' 'I am worthy,' or 'I am sinful.' For example, one might think, 'My life is predetermined, so why bother trying?' This limitation obscures the understanding of our inherent freedom and divine nature."
 	},
 	"kaala": {
 		"num": 10,
 		"group": "kancuka",
 		"sans": "काल",
 		"trans": "Kāla",
-		"title": "Время",
-		"text": "Формирует представление о “частях”, ведущее сознание, покрытое вуалью Майи к представлению о времени. Это Ананда-шакти (Высшее блаженство), претерпевшая сжатие. Она привносит ошибочные суждения вроде: “Я не вечен, и не непреходящ”, “Я живу лишь несколько лет”, “Я стар”, “Я молод” и т.д."
+		"title": "Time",
+		"text": "Kāla creates the concept of 'parts,' leading the Maya-veiled consciousness to perceive time. It's a contraction of Ananda-shakti (Supreme Bliss). Kāla brings forth mistaken notions such as: 'I am not eternal,' 'I live only for a few years,' 'I am old,' or 'I am young.' For instance, one might lament, 'Time is running out for me to achieve my goals.' This limitation hides our eternal, timeless nature."
 	},
 	"raga": {
 		"num": 9,
 		"group": "kancuka",
 		"sans": "राग",
 		"trans": "Rāga",
-		"title": "Привязанность",
-		"text": "Формирует представление об “ограниченной воле”, ведущее покрытое вуалью Майи сознание к привязанности. Это Иччха-шакти (Совершенная Воля) претерпевшая сжатие. Она привносит ошибочные суждения: “Мне чего-то не хватает”, “Я в чем-то нуждаюсь” и, закономерно, возникает и результат такой нужды в форме “Я привязан к чему-то”."
+		"title": "Attachment",
+		"text": "Rāga creates the idea of 'limited will,' leading the Maya-veiled consciousness to attachment. It's a contraction of Icchā-śakti (Perfect Will). Rāga introduces flawed judgments like: 'I lack something,' 'I need this,' resulting in 'I am attached to that.' For example, one might think, 'I can't be happy without this person/object.' This limitation obscures our inherent completeness and contentment."
 	},
 	"vidya": {
 		"num": 8,
 		"group": "kancuka",
 		"sans": "विद्या",
 		"trans": "Vidyā",
-		"title": "Знание",
-		"text": "Формирует представление об “ограниченном знании” покрытого вуалью Майи сознания. Это Джняна-шакти (Всезнание), претерпевшая сжатие. Она вносит ошибочные суждения: “Я ограничен в познании”, “Я не знаю этого”, “Я не знаю того”, и т.д."
+		"title": "Knowledge",
+		"text": "Vidyā forms the concept of 'limited knowledge' in the Maya-veiled consciousness. It's a contraction of Jñāna-śakti (Omniscience). Vidyā brings forth erroneous judgments such as: 'I am limited in understanding,' 'I don't know this,' or 'I don't know that.' For instance, one might think, 'There's so much I don't understand about the universe.' This limitation hides our inherent omniscience."
 	},
 	"kalaa": {
 		"num": 7,
 		"group": "kancuka",
 		"sans": "कला",
 		"trans": "Kalā",
-		"title": "Умение",
-		"text": "Формирует представление об “ограниченной активности” покрытого вуалью Майи сознания. Это Крия-шакти (Всемогущество), претерпевшая сжатие. Она вносит ошибочные суждения: “Я ограничен в действиях”, “Я не могу сделать это”, “Я не могу сделать то” и т.д."
+		"title": "Limited Agency",
+		"text": "Kalā creates the notion of 'limited activity' in the Maya-veiled consciousness. It's a contraction of Kriyā-śakti (Omnipotence). Kalā introduces mistaken beliefs like: 'I am limited in my actions,' 'I can't do this,' or 'I can't do that.' For example, one might think, 'I'm not capable of achieving great things.' This limitation obscures our inherent divine power and potential."
 	},
 	"maya": {
 		"num": 6,
 		"sans": "माया",
 		"trans": "Māyā",
-		"title": "Неведение",
-		"text": "Майя Трики не та же, что и в Веданте. В Трике Майя — это таттва, или “реальный” уровень Творения. Майя отвечает за сокрытие сущностной природы Шивы вуалью заблуждения. Майя превращает бесконечное Я в кого-то полного ограничений. Майия-мала и Карма-мала возникают в результате действия Майя-таттвы. Эти две нечистоты наполняют деятельность различиями и привязанностями. Иногда Майя рассматривается как “шестая” канчука или покров, окутывающий сознание тонкой, но прочной вуалью неведения."
+		"title": "Ignorance",
+		"text": "Māyā in Trika is not the same as in Vedānta. In Trika, Māyā is a tattva, a “real” level of Creation. Māyā is responsible for veiling the essential nature of Śiva with a shroud of illusion. It transforms the infinite Self into someone bound by limitations. Māyā-mala and Karma-mala arise from the action of the Māyā tattva, filling activities with distinctions and attachments. Sometimes, Māyā is seen as the “sixth” covering or sheath that subtly yet firmly envelops consciousness with ignorance."
 	},
 	"sadakhya": {
 		"num": 5,
 		"sans": "सद्विद्या",
 		"trans": "Sadvidyā",
-		"title": "Истинное знание",
-		"text": "<h4>Разворачивание Kriyāśakti или Силы Действия</h4>\nСущность любого знания, это восторг осознания: “Я есть Я, Это есть Это”. Это начало преобладания внешнего мира, содержащего в себе все многообразие явлений. Это единство в различиях, ведь здесь есть вселенная, отличная от Шивы (“Я”), но в то же время присутствует лежащее в их основе единство.\nЗдесь обитают 70 миллионов мантр вместе с восемью владыками Знания, созданные для того, чтобы поднимать ограниченных существ на уровни выше через передачу божественной Благодати."
+		"title": "True Knowledge",
+		"text": "Sadvidyā unfolds the Kriyāśakti, the Power of Action. The essence of all knowledge is the joy of realization: “I am I, This is This.” It marks the beginning of the predominance of the external world, encompassing all phenomena. This is unity in diversity, for while there is a universe distinct from Śiva (“I”), there is also an underlying unity. Here reside 70 million mantras along with eight Lords of Knowledge, created to elevate limited beings to higher levels through the transmission of divine Grace."
 	},
 	"ishvara": {
 		"num": 4,
 		"sans": "ईश्वर",
 		"trans": "Īśvara",
-		"title": "Владыка",
-		"text": "<h4>Пространство jñānaśakti или силы Знания</h4>\nЭто изумление высшего Я, принимающего форму “Это есть Я” (“Вселенная есть Я”). Это состояние нераздельного единства воспринимающего и воспринимаемого, пребывающих в абсолютном равновесии. Высшее Я потрясено божественным чудом раскрытия Себя перед Самим Собой. <p> Это — местопребывание Владык Мантры."
+		"title": "Lord",
+		"text": "Īśvara represents the realm of Jñānaśakti, the Power of Knowledge. It is the awe of the supreme Self taking the form “This is I” (“The Universe is I”). This state is one of indivisible unity between the perceiver and the perceived, in absolute equilibrium. The supreme Self is astounded by the divine wonder of its own Self-revelation. This is the abode of the Lords of Mantra."
 	},
 	"sadashiva": {
 		"num": 3,
 		"sans": "सदाशिव",
 		"trans": "Sadāśiva",
-		"title": "Вечное блаженство",
-		"text": "<h4>Сияние icchāśakti или cилы Воли</h4>\nЭто изумление, наполненное совершенным самоосознанием Высшего Я. Сознание принимает форму “Я есть Это” (“Я — эта Вселенная”). Это радость полного единства с возникающей Вселенной. <p> В этом состоянии пребывают великие владыки мантры — mantramaheśvara. "
+		"title": "Eternal Bliss",
+		"text": "Sadāśiva embodies the radiance of Icchāśakti, the Power of Will. It is the wonder filled with perfect self-awareness of the supreme Self. Consciousness assumes the form “I am This” (“I am this Universe”). It is the joy of complete unity with the emerging Universe. In this state dwell the great Lords of Mantra, the Mantramaheśvara."
 	},
 	"shakti": {
 		"num": 2,
 		"sans": "शक्ति",
 		"trans": "Śakti",
 		"title": "Шакти",
-		"text": "<h3>Блаженство самоосознавания Высшего Я</h3>\nОна — истинная природа бытия. Шива и Шакти являют истинное “Я есть”. Шакти делает Шиву сознающим Себя, но при этом нельзя найти никакого различия между ними. <p> Шакти — очень тонкое “напряжение” на бесконечном и неподвижном теле Шивы. Из неё возникают все остальные таттвы. По сути, они — её форма. Между ней и всеми остальными таттвами присутствует совершенное единство. Она же — первобраз всего сущего. <p> Порождающая и поглощающая вселенные, она и полна и пуста одновременно. Она пронизана Ānandaśakti или силой Блаженства."
+		"text": "Śakti is the bliss of the supreme Self-awareness. She is the true nature of being. Śiva and Śakti manifest the true “I am.” Śakti makes Śiva aware of Himself, yet there is no distinction between them. Śakti is a subtle “tension” on the infinite and still body of Śiva. From her arise all other tattvas, essentially her forms. There is perfect unity between her and all other tattvas. She is the primordial form of all existence, both creating and dissolving universes, simultaneously full and empty. She is permeated with Ānandaśakti, the Power of Bliss."
 	},
 	"shiva": {
 		"num": 1,
 		"sans": "शिव",
 		"trans": "Śiva",
-		"title": "Шива",
-		"text": "<h3>Высшая реальность — единое истинное Я</h3> <p> Он — великолепное сияние абсолютного сознания, что пронизывает все таттвы и полно изумления совершенного самоосознавания внутри всех познающих. <p> Шива полон cicchakti (сit + śakti) или cилы cознания. <p> Шива и Шакти возникают из Парамашивы или высшего Шивы, превосходящего любую двойственность."
+		"title": "Shiva",
+		"text": "Śiva is the supreme reality, the singular true Self. He is the magnificent radiance of absolute consciousness that pervades all tattvas and is filled with the awe of perfect self-awareness within all knowers. Śiva is full of Cicchakti (Cit + Śakti), the Power of Consciousness. Śiva and Śakti emerge from Paramaśiva, the supreme Śiva, transcending all duality."
 	},
 	"spanda": {
 		"sans": "स्पन्द",
 		"trans": "Spanda",
-		"title": "Спанда",
-		"text": "<h4>Дрожь, пульсация, вибрация — первичная космическая вибрация энергии</h4>\n<p>Спанда выступает символом и результатом союза, или соединения двух начал: света сознания Шивы – Пракаша, и динамичной саморефлексии этого сознания - Вимарша, отождествляемой с Шакти. Пульсация cпанды имеет не физическую или психическую природу, а происходит на уровне духовной сущности, одновременно внутрь и вовне. Движение внутрь – это состояние Абсолюта, покоящегося в себе, движение наружу – сотворение проявленного мира. Спанда присутствует в любом живом существе, поскольку природа индивидуального сознания не отлична от Абсолюта. </p>\n<p>Очевидно, все сущее и запредельное и есть одна Спанда – это разные градации пульсаций, и уровни этой пульсации, невозможно описать какими-либо схемами, так как схема менее хаотична по своей сути, она фиксирована. А эффективность cпанда-таттвы в том, что она не фиксирована, это ей придает над-умственный характер, т.е. вритти (мыслеформы) сознания не могут получить некую поддержку от какой-то структуры, так как все становится более хаотичным, а стоящий за этим воспринимаемый порядок сложен для стандартных определений.</p> "
+		"title": "Spanda",
+		"text": "The primordial cosmic vibration of energy, representing the union of Shiva's light of consciousness (Prakasha) and Shakti's dynamic self-reflection (Vimarsha). Spanda is the pulsation that occurs at the spiritual level, moving both inward (the Absolute resting in itself) and outward (the creation of the manifested world). It is present in all living beings, as the nature of individual consciousness is not different from the Absolute. Spanda-tattva's effectiveness lies in its unfixed, supra-mental character, transcending standard definitions and revealing the perceived order behind apparent chaos."
 	}
 }
