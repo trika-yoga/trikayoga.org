@@ -31,6 +31,7 @@ const meta = {
 
 import { defineConfig } from "vitepress";
 export default defineConfig({
+  base: '/trikayoga.space',
   title: meta.title,
   description: meta.description,
   lang: meta.lang,
