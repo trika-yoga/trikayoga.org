@@ -1,1 +1,0 @@
-import{_ as a,d as t,c as e,g as i}from"./chunks/framework.Dz_eH_9I.js";const p=JSON.parse('{"title":"Trika Yoga","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),s={name:"README.md"},r=i("",3),o=[r];function n(l,c,d,m,_,h){return e(),t("div",null,o)}const g=a(s,[["render",n]]);export{p as __pageData,g as default};
