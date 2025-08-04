@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://trikayoga.space/sitemap.xml
+Sitemap: https://trikayoga.org/sitemap.xml

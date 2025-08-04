@@ -1,6 +1,6 @@
 {
-	"name": "trikayoga.space",
-	"version": "1.0.5",
+	"name": "trikayoga.org",
+	"version": "1.0.6",
 	"description": "trika yoga resource base",
 	"keywords": [
 		"trika",
@@ -14,7 +14,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:trika-yoga/trikayoga.space.git"
+		"url": "git@github.com:trika-yoga/trikayoga.org.git"
 	},
 	"license": "ISC",
 	"author": "davay",
