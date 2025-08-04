@@ -1,1 +1,0 @@
-import{_ as t,c as i,o as r,d as e}from"./chunks/framework.BBxJ1kvm.js";const _=JSON.parse('{"title":"Trika Yoga","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),s={name:"README.md"};function o(n,a,l,d,c,m){return r(),i("div",null,a[0]||(a[0]=[e("",3)]))}const f=t(s,[["render",o]]);export{_ as __pageData,f as default};
