@@ -1,30 +1,26 @@
 ---
-title: Панчакшара мантра
-description: Пятислоговая мантра
+title: Panchakshara Mantra
+description: The Five-Syllable Mantra
 sans: पञ्चक्षरमन्त्र
 trans: pañcakṣaramantra
 tags: mantra
 date: 2021-04-05
-
 ---
-
-----
 
 ॐ नमः शिवाय {sans big}
 
-om namah śivāya {trans}
+om namaḥ śivāya {trans}
 
-Поклонение Благому
+**Salutations to the Auspicious One**
 
 ::: stanza
 
-### Основные толкования:
+### Primary Interpretations:
 
-- **Толкование джняни**. Слово «**намах**» (नमः) обозначает ограниченную человеческую душу (дживу, जिव). Слово «**шива**» (शिव) обозначает Мировой Дух (Параматман). Окончание «**йа**» (य) указывает на идентичность Дживы и Параматмана. Слог **Ом** (ॐ) символизирует разрушение **Майи** — иллюзии.
-- **Толкование бхакти**. Слог «**ом**» (ॐ) означает «весь мир, живой и неживой». Слово «намах» (नमः) — это сокращение от «**намама**» (न मम) — «не мой», «не для меня». Слово «**шивайа**» (शिवाय) означает «для Шивы». Мантра в целом переводится так: весь этот мир, живой и неживой, принадлежит не мне, существует не для меня, а для Шивы.
+- **Jñāni's Understanding**: The word "**namaḥ**" (नमः) signifies the limited individual soul (jīva, जिव). The word "**śiva**" (शिव) denotes the Universal Spirit (Paramātman). The suffix "**ya**" (य) indicates the essential identity between Jīva and Paramātman. The syllable **Om** (ॐ) symbolizes the dissolution of **Māyā** — the cosmic illusion.
 
-Хотя она и имеет прямой перевод — **Поклонение Благому**, — её основное значение заключается не в словах, а в звуках, её составляющих, которые, в свою очередь, связываются с пятью перво-элементами (землёй, водой, огнём, воздухом и акашей) и ипостасью Шивы — **Панчамукха** или **Панчанана** ([Обладающий] Пятью ликами). {eng}
+- **Bhakti's Understanding**: The syllable "**om**" (ॐ) means "all existence, animate and inanimate." The word "namaḥ" (नमः) derives from "**na mama**" (न मम) — "not mine," "not for me." The word "**śivāya**" (शिवाय) means "unto Śiva." The complete mantra thus declares: All of this universe, both living and non-living, belongs not to me and exists not for my sake, but for Śiva alone.
+
+Though it bears the direct translation **Salutations to the Auspicious One**, its essential meaning transcends mere words, residing in the sacred sounds that compose it. These five syllables correspond to the five primordial elements (earth, water, fire, air, and ākāśa) and to Śiva's cosmic form as **Pañcamukha** or **Pañcānana** — the [Lord] bearing Five Faces, each governing a fundamental aspect of creation, preservation, dissolution, concealment, and grace. {eng}
 
 :::
-
-----

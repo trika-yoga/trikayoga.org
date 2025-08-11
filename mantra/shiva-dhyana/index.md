@@ -1,7 +1,7 @@
 ---
-title: Шива дхьяна
-description: Шлока из Яджурведы, являющаяся одной из самых знаменитых ārti
-sans: शिवध्यानमन्त्र 
+title: Shiva Dhyana
+description: Verse from the Yajurveda, one of the most renowned ārtis
+sans: शिवध्यानमन्त्र
 trans: śivadhyānamantra
 tags: mantra
 date: 2021-04-05
@@ -9,34 +9,31 @@ date: 2021-04-05
 
 ::: stanza
 
-कर्पूरगौरं करुणावतारम् ।    
-संसारसारं भुजगेन्द्रहारम् ॥    
-सदा वसन्तं हृदयारविन्दे ।    
+कर्पूरगौरं करुणावतारम् ।  
+संसारसारं भुजगेन्द्रहारम् ॥  
+सदा वसन्तं हृदयारविन्दे ।  
 भवं भवानि सहितं नमामि ॥ {sans}
 
-karpūragauraṃ karuṇāvatāram ।    
-saṃsārasāraṃ bhujagendrahāram ॥    
-sadā vasantaṃ hṛdayāravinde ।     
+karpūragauraṃ karuṇāvatāram ।  
+saṃsārasāraṃ bhujagendrahāram ॥  
+sadā vasantaṃ hṛdayāravinde ।  
 bhavaṃ bhavāni sahitaṃ namāmi ॥ {trans}
 
-Белоснежному как камфора, Воплощению сострадания,    
-Сущности мироздания, украшенному Царем змей,    
-Всегда обитающему в лотосе моего сердца,    
-Бхаве-Шиве вместе с Бхавани-Шакти я поклоняюсь.   
-_— Прозаический перевод с санскрита: Шив Рагини_
-
-Камфарно чист; состраданье сулящий.
-Суть бытия; царя змеев носящий.
-Юный; и в лотосе сердца живущий...
-Поклон мой да будет Сущему с Сущей.   
-_— Стихотворный перевод с санскрита: NN._
+Camphor-pure and compassion incarnate,  
+Essence of existence, adorned with the serpent-king,  
+Ever dwelling in the heart's lotus,  
+To Bhava with Bhavānī united, I bow.
 
 :::
 
-::: stanza
-
-### Вариант аккомпанемента
+### Musical Accompaniment
 
 ![no-shadow](./karpura-gauram.svg)
 
-:::
+This sublime dhyāna-śloka presents Śiva in his dual aspect as both transcendent consciousness and immanent presence. The camphor imagery (_karpūragaura_) signifies the pure, self-luminous nature of consciousness that burns without residue - consuming all limiting identifications while leaving awareness pristine and radiant.
+
+As _karuṇāvatāra_ (compassion incarnate), Śiva embodies the heart's natural movement toward all existence. The _bhujagendrahāra_ (serpent-king as ornament) represents kuṇḍalinī-śakti, the coiled divine energy that adorns consciousness as its own power of manifestation and recognition.
+
+The verse locates this supreme reality not in distant heavens but in the _hṛdayāravinda_ - the lotus of the heart-center where individual and universal consciousness recognize their non-difference. The final salutation to _Bhava-Bhavānī_ acknowledges the inseparable unity of consciousness (_Śiva_) and its creative power (_Śakti_), the fundamental non-duality at the heart of existence itself.
+
+This ārti transforms devotional practice into direct recognition, where worship becomes the spontaneous celebration of our own essential nature as consciousness-bliss.

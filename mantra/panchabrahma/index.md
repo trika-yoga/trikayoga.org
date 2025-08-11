@@ -21,8 +21,8 @@ sadyojāta {trans}
 оṃ sadyojātaṁ prapadyāmi sadyojātāya vai namo namaḥ  
 bhave bhave nāti bhave bhavasva māṁ bhavodbhavāya namaḥ {trans}
 
-I seek refuge (prapadyāmi) in the Primordial (sadyojātaṁ), I pay homage (namo namaḥ) to the Primordial (sadyojātāya).
-Do not let me (māṁ) be born (bhave) again and again (bhave bhave); guide me beyond (bhavasva) births (bhave) to liberation (bhavodbhavāya).
+I seek refuge _(prapadyāmi)_ in the Primordial _(sadyojātaṁ)_, I pay homage _(namo namaḥ)_ to the Primordial _(sadyojātāya)_.
+Do not let me _(māṁ)_ be born _(bhave)_ again and again _(bhave bhave)_; guide me beyond _(bhavasva)_ births _(bhave)_ to liberation _(bhavodbhavāya)_.
 
 :::
 ::: stanza
@@ -41,9 +41,9 @@ oṃ vāmadevāya namo jyeṣṭhāya namaḥ śreṣṭhāya namo rudrāya nama
 kalavikaraṇāya namo balāya namo balavikaraṇāya namo balapramathanāya namaḥ
 sarvabhūtadamanāya namo manonmanāya namaḥ {trans}
 
-Homage (namo) to the Generous One (vāmadevāya), to the Eldest (jyeṣṭhāya), to the Best (śreṣṭhāya), homage to Rudra (rudrāya), homage to Time (kālāya);
-Homage to the incomprehensible (kalavikaraṇāya), to the Great Power (balāya), to the Cause of power (balavikaraṇāya), homage to the Grantor of strength (balapramathanāya);
-Homage to the Lord of beings (sarvabhūtadamanāya), homage to the Source of mind (manonmanāya).
+Homage _(namo)_ to the Generous One _(vāmadevāya)_, to the Eldest _(jyeṣṭhāya)_, to the Best _(śreṣṭhāya)_, homage to Rudra _(rudrāya)_, homage to Time _(kālāya)_;
+Homage to the incomprehensible _(kalavikaraṇāya)_, to the Great Power _(balāya)_, to the Cause of power _(balavikaraṇāya)_, homage to the Grantor of strength _(balapramathanāya)_;
+Homage to the Lord of beings _(sarvabhūtadamanāya)_, homage to the Source of mind _(manonmanāya)_.
 
 :::
 ::: stanza
@@ -60,8 +60,8 @@ aghora {trans}
 oṃ aghorebhyo’tha ghorebhyo aghoraghoretarebhyaḥ  
 sarvataḥ śarvaḥ sarvebhyo namaste rudra rūpebhyaḥ {trans}
 
-Homage (namaste) to the Fearless (aghorebhyo), to the terrible (ghorebhyo), to the one who is both terrible and not terrible (aghoraghoretarebhyaḥ).
-Always and everywhere (sarvataḥ), O Śarva (śarvaḥ), I honor (namaste) Rudra (rudra) in all his forms (rūpebhyaḥ).
+Homage _(namaste)_ to the Fearless _(aghorebhyo)_, to the terrible _(ghorebhyo)_, to the one who is both terrible and not terrible _(aghoraghoretarebhyaḥ)_.
+Always and everywhere _(sarvataḥ)_, O Śarva _(śarvaḥ)_, I honor _(namaste)_ Rudra _(rudra)_ in all his forms _(rūpebhyaḥ)_.
 
 :::
 ::: stanza
@@ -78,8 +78,8 @@ tatpuruṣa {trans}
 oṃ tatpuruṣāya vidmahe mahādevāya dhīmahi
 tanno rudraḥ pracodayāt {trans}
 
-We know (vidmahe) the Supreme Being (tatpuruṣa), let us meditate (dhīmahi) on the Great God (mahādeva).
-May Rudra (rudraḥ) lead (pracodayāt) us to enlightenment.
+We know _(vidmahe)_ the Supreme Being _(tatpuruṣa)_, let us meditate _(dhīmahi)_ on the Great God _(mahādeva)_.
+May Rudra _(rudraḥ)_ lead _(pracodayāt)_ us to enlightenment.
 
 :::
 ::: stanza
@@ -97,8 +97,8 @@ oṃ īśāna sarvavidyānāmīśvaraḥ sarvabhūtānāṁ
 brahmādipati brahmaṇo’dhipatir ।  
 brahmā śivo me astu sa eva sadāśiva om ॥ {trans}
 
-Lord (īsāna) of all knowledge (sarvavidyānām), the Lord of all beings (sarvabhūtānāṁ), the Chief (brahmādipati) of the Brahmans (brahmaṇo'dhipatir).
-May Brahman (brahmā) and Shiva (śivaḥ) be with me (me astu), He who is eternally auspicious (sa eva sadāśiva) Om (om).
+Lord _(īsāna)_ of all knowledge _(sarvavidyānām)_, the Lord of all beings _(sarvabhūtānāṁ)_, the Chief _(brahmādipati)_ of the Brahmans _(brahmaṇo'dhipatir)_.
+May Brahman _(brahmā)_ and Shiva _(śivaḥ)_ be with me _(me astu)_, He who is eternally auspicious _(sa eva sadāśiva)_ Om _(om)_.
 
 :::
 
@@ -112,8 +112,8 @@ May Brahman (brahmā) and Shiva (śivaḥ) be with me (me astu), He who is etern
 namo hiraṇyabāhave hiraṇyavarṇāya hiraṇyarūpāya hiraṇyapataye ।  
 ambikāpataya umāpataye paśupataye namo namaḥ ॥ {trans}
 
-Homage (namo) to the Golden-armed (hiraṇyabāhave), to the Golden-colored (hiraṇyavarṇāya), to the Golden-formed (hiraṇyarūpāya), to the Golden Lord (hiraṇyapataye).
-To the Lord of Ambikā (ambikāpataye), to the Lord of Umā (umāpataye), to the Lord of all beings (paśupataye), homage (namo namaḥ).
+Homage _(namo)_ to the Golden-armed _(hiraṇyabāhave)_, to the Golden-colored _(hiraṇyavarṇāya)_, to the Golden-formed _(hiraṇyarūpāya)_, to the Golden Lord _(hiraṇyapataye)_.
+To the Lord of Ambikā _(ambikāpataye)_, to the Lord of Umā _(umāpataye)_, to the Lord of all beings _(paśupataye)_, homage _(namo namaḥ)_.
 
 :::
 ::: stanza
@@ -126,8 +126,8 @@ To the Lord of Ambikā (ambikāpataye), to the Lord of Umā (umāpataye), to the
 ṛtam̐ satyaṃ paraṃ brahma puruṣaṃ kṛṣṇapiṅgalam ।  
 ūrdhvaretaṃ virūpākśaṃ viśvarūpāya vai namo namaḥ ॥ {trans}
 
-Order (ṛtam̐), Truth (satyaṃ), the Supreme Brahman (paraṃ brahma), the Divine Spirit (puruṣaṃ), the Dark-gold one (kṛṣṇapiṅgalam),
-The one with ascending energy (ūrdhvaretaṃ), the one with diverse forms (virūpākṣaṃ), I honor and salute (namo namaḥ) the Universal Form (viśvarūpāya).
+Order _(ṛtam̐)_, Truth _(satyaṃ)_, the Supreme Brahman _(paraṃ brahma)_, the Divine Spirit _(puruṣaṃ)_, the Dark-gold one _(kṛṣṇapiṅgalam)_,
+The one with ascending energy _(ūrdhvaretaṃ)_, the one with diverse forms _(virūpākṣaṃ)_, I honor and salute _(namo namaḥ)_ the Universal Form _(viśvarūpāya)_.
 
 :::
 ::: stanza
@@ -144,10 +144,10 @@ puruṣo vai rudraḥ sanmaho namo namaḥ ।
 viśvaṃ bhūtaṃ bhuvanaṃ citraṃ bahudhā jātaṃ jāyamānaṃ ca yat ।  
 sarvo hyeṣa rudrastasmai rudrāya namo astu ॥ {trans}
 
-Homage (namo astu) to Rudra (rudrāya) who is everything (sarvo vai).
-The person (puruṣo) is indeed Rudra (rudraḥ), homage (namo namaḥ) to the exalted one (sanmaho).
-To the universe (viśvaṃ), the beings (bhūtaṃ), the worlds (bhuvanaṃ), the diverse (citraṃ), the many-born (bahudhā jātaṃ), and those being born (jāyamānaṃ ca).
-He is indeed everything (sarvo) and all forms of Rudra (hyeṣa rudraḥ), to him (tasmai) homage (namo astu).
+Homage _(namo astu)_ to Rudra _(rudrāya)_ who is everything _(sarvo vai)_.
+The person _(puruṣo)_ is indeed Rudra _(rudraḥ)_, homage _(namo namaḥ)_ to the exalted one _(sanmaho)_.
+To the universe _(viśvaṃ)_, the beings _(bhūtaṃ)_, the worlds _(bhuvanaṃ)_, the diverse _(citraṃ)_, the many-born _(bahudhā jātaṃ)_, and those being born _(jāyamānaṃ ca)_.
+He is indeed everything _(sarvo)_ and all forms of Rudra _(hyeṣa rudraḥ)_, to him _(tasmai)_ homage _(namo astu)_.
 
 कद्रुद्राय प्रचेतसे मीढुष्टमाय तव्यसे ।  
 वोचेम शंतमँ हृदे ।  
@@ -157,10 +157,10 @@ kadrudrāya pracetase mīḍhuṣṭamāya tavyase ।
 vocema śaṃtamam̐ hṛde ।  
 sarvohyeṣa rudrastasmai rudrāya namo astu ॥ {trans}
 
-To the Rudra (rudrāya) who is the essence of Rudra (kadrudrāya),
-To the perceptive one (pracetase), the supreme being (mīḍhuṣṭamāya) worthy of reverence (tavyase).
-We speak (vocema) the peaceful one (śaṃtamam̐) from the heart (hṛde).
-He is indeed all (sarvo) forms of Rudra (hyeṣa rudraḥ); to him (tasmai) homage (namo astu).
+To the Rudra _(rudrāya)_ who is the essence of Rudra _(kadrudrāya)_,
+To the perceptive one _(pracetase)_, the supreme being _(mīḍhuṣṭamāya)_ worthy of reverence _(tavyase)_.
+We speak _(vocema)_ the peaceful one _(śaṃtamam̐)_ from the heart _(hṛde)_.
+He is indeed all _(sarvo)_ forms of Rudra _(hyeṣa rudraḥ)_; to him _(tasmai)_ homage _(namo astu)_.
 
 :::
 
