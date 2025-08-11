@@ -9,6 +9,10 @@ date: 2021-04-30
 
 <audio-player title="Sadyojata mantra" file="/audio/Sadyojaata_mantram.mp3" />
 
+<audio-player title="Sadyojata Pancha mantra" file="/audio/Sadyojata_Pancha_Mantra.mp3" />
+
+<audio-player title="Uma Mohan song" file="/audio/mohan.mp3" />
+
 ::: stanza
 
 सद्योजात {sans big}
@@ -103,8 +107,6 @@ O Ruler _(īśāna)_ of-all-knowledge _(sarvavidyānām)_, Lord _(īśvaraḥ)_ 
 May-Brahma _(brahmā)_ [and] Śiva _(śivaḥ)_ for-me _(me)_ be _(astu)_ — He _(saḥ)_ indeed _(eva)_ [is] Ever-auspicious _(sadāśiva)_ Om _(om)_.
 
 :::
-
-<audio-player title="Uma Mohan song" file="/audio/mohan.mp3" />
 
 ::: stanza
 
