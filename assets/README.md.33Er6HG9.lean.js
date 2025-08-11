@@ -1,0 +1,1 @@
+import{_ as i,c as r,o as t,d as e}from"./chunks/framework.DgU3f_bc.js";const _=JSON.parse('{"title":"Trika Yoga","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),s={name:"README.md"};function n(o,a,l,d,c,m){return t(),r("div",null,a[0]||(a[0]=[e("",3)]))}const f=i(s,[["render",n]]);export{_ as __pageData,f as default};
