@@ -1,11 +1,13 @@
 ---
-title: Панчабрахма мантра
-description: The mantra of the five Brahmas - five avatars of Shiva, responsible for the creation, maintenance, destruction of the Universe, as well as the concealment and revelation of their true nature in it.
+title: Panchabrahma Mantra
+description: The mantra of the five Brahmas - five aspects of Shiva, governing creation, preservation, dissolution, concealment and grace in the Universe.
 sans: पञ्चब्रह्मा मन्त्र
 trans: pañcabrahmā mantra
 tags: mantra
 date: 2021-04-30
 ---
+
+<audio-player title="Sadyojata mantra" file="/audio/Sadyojaata_mantram.mp3" />
 
 ::: stanza
 
@@ -13,16 +15,16 @@ date: 2021-04-30
 
 sadyojāta {trans}
 
-### Sadyojata — Primordial — Creation
+### Sadyojāta — The Instantly Born — Creation
 
 ॐ सद्योजातं प्रपद्यामि सद्योजाताय वै नमो नमः ।  
 भवे भवे नाति भवे भवस्व मां भवोद्भवाय नमः ॥ {sans}
 
-оṃ sadyojātaṁ prapadyāmi sadyojātāya vai namo namaḥ  
+oṃ sadyojātaṁ prapadyāmi sadyojātāya vai namo namaḥ  
 bhave bhave nāti bhave bhavasva māṁ bhavodbhavāya namaḥ {trans}
 
-I seek refuge _(prapadyāmi)_ in the Primordial _(sadyojātaṁ)_, I pay homage _(namo namaḥ)_ to the Primordial _(sadyojātāya)_.
-Do not let me _(māṁ)_ be born _(bhave)_ again and again _(bhave bhave)_; guide me beyond _(bhavasva)_ births _(bhave)_ to liberation _(bhavodbhavāya)_.
+To the Instantly-Born _(sadyojātaṁ)_ I surrender _(prapadyāmi)_, to the Instantly-Born _(sadyojātāya)_ indeed _(vai)_ homage _(namo)_, homage _(namaḥ)_.
+In becoming _(bhave)_, in becoming _(bhave)_, do not _(na)_ beyond _(ati)_ becoming _(bhave)_ — cause me _(māṁ)_ to become _(bhavasva)_, to the arising-from-becoming _(bhavodbhavāya)_ homage _(namaḥ)_.
 
 :::
 ::: stanza
@@ -31,19 +33,19 @@ Do not let me _(māṁ)_ be born _(bhave)_ again and again _(bhave bhave)_; guid
 
 vāmadeva {trans}
 
-### Vamadeva — Beautiful God — Continuation
+### Vāmadeva — The Auspicious God — Preservation
 
 ॐ वामदेवायनमो ज्येष्ठाय नमः श्रेष्ठाय नमो रुद्राय नमः कालाय नमः ।  
-कलविकरणाय नमो बलाय नमो बलविकरणाय नमो बलप्रमथनाय नमः ।  
+कलविकरणाय नमो बलविकरणाय नमो बलाय नमो बलप्रमथनाय नमः ।  
 सर्वभूतदमनाय नमो मनोन्मनाय नमः ॥ {sans}
 
 oṃ vāmadevāya namo jyeṣṭhāya namaḥ śreṣṭhāya namo rudrāya namaḥ kālāya namaḥ  
-kalavikaraṇāya namo balāya namo balavikaraṇāya namo balapramathanāya namaḥ
+kalavikaraṇāya namo balavikaraṇāya namo balāya namo balapramathanāya namaḥ
 sarvabhūtadamanāya namo manonmanāya namaḥ {trans}
 
-Homage _(namo)_ to the Generous One _(vāmadevāya)_, to the Eldest _(jyeṣṭhāya)_, to the Best _(śreṣṭhāya)_, homage to Rudra _(rudrāya)_, homage to Time _(kālāya)_;
-Homage to the incomprehensible _(kalavikaraṇāya)_, to the Great Power _(balāya)_, to the Cause of power _(balavikaraṇāya)_, homage to the Grantor of strength _(balapramathanāya)_;
-Homage to the Lord of beings _(sarvabhūtadamanāya)_, homage to the Source of mind _(manonmanāya)_.
+To Vāmadeva _(vāmadevāya)_ homage _(namo)_, to the Eldest _(jyeṣṭhāya)_ homage _(namaḥ)_, to the Most Excellent _(śreṣṭhāya)_ homage _(namo)_, to Rudra _(rudrāya)_ homage _(namaḥ)_, to Time _(kālāya)_ homage _(namaḥ)_.
+To the Fragmenter-of-parts _(kalavikaraṇāya)_ homage _(namo)_, to Strength _(balāya)_ homage _(namo)_, to the Cause-of-strength _(balavikaraṇāya)_ homage _(namo)_, to the Destroyer-of-strength _(balapramathanāya)_ homage _(namaḥ)_.
+To the Tamer-of-all-beings _(sarvabhūtadamanāya)_ homage _(namo)_, to the Mind-beyond-mind _(manonmanāya)_ homage _(namaḥ)_.
 
 :::
 ::: stanza
@@ -52,16 +54,16 @@ Homage to the Lord of beings _(sarvabhūtadamanāya)_, homage to the Source of m
 
 aghora {trans}
 
-### Aghora — Fearless — Destruction
+### Aghora — The Non-Terrible — Dissolution
 
-ॐ अघोरेभ्योऽथ घोरेभ्यो अघोरघोरेतरेभ्यः ।  
-सर्वतः शर्वः सर्वेभ्यो नमस्ते रुद्र रूपेभ्यः ॥ {sans}
+ॐ अघोरेभ्योऽथ घोरेभ्योऽघोरघोरेतरेभ्यः ।
+सर्वेभ्यः सर्वशर्वेभ्यो नमस्त्वस्तु रुद्ररूपेभ्यः ॥ {sans}
 
-oṃ aghorebhyo’tha ghorebhyo aghoraghoretarebhyaḥ  
-sarvataḥ śarvaḥ sarvebhyo namaste rudra rūpebhyaḥ {trans}
+oṃ aghorebhyo'tha ghorebhyo aghoraghoretarebhyaḥ  
+sarvebhyah sarva śarvebhyo namaste astu rudra rūpebhyaḥ {trans}
 
-Homage _(namaste)_ to the Fearless _(aghorebhyo)_, to the terrible _(ghorebhyo)_, to the one who is both terrible and not terrible _(aghoraghoretarebhyaḥ)_.
-Always and everywhere _(sarvataḥ)_, O Śarva _(śarvaḥ)_, I honor _(namaste)_ Rudra _(rudra)_ in all his forms _(rūpebhyaḥ)_.
+To the Non-terrible _(aghorebhyaḥ)_ and _(atha)_ to the Terrible _(ghorebhyaḥ)_, to those-who-are-non-terrible-terrible-and-other _(aghoraghoretarebhyaḥ)_.
+From all-directions _(sarvataḥ)_ O Śarva _(śarvaḥ)_, to all _(sarvebhyaḥ)_ salutations-to-you _(namaste)_, O Rudra _(rudra)_, to [your] forms _(rūpebhyaḥ)_.
 
 :::
 ::: stanza
@@ -70,7 +72,7 @@ Always and everywhere _(sarvataḥ)_, O Śarva _(śarvaḥ)_, I honor _(namaste)
 
 tatpuruṣa {trans}
 
-### Tatpurusha — Highest Being — Self-concealment
+### Tatpuruṣa — That Person — Concealment
 
 ॐ तत्पुरुषाय विद्महे महादेवाय धीमहि ।  
 तन्नो रुद्रः प्रचोदयात् ॥ {sans}
@@ -78,61 +80,63 @@ tatpuruṣa {trans}
 oṃ tatpuruṣāya vidmahe mahādevāya dhīmahi
 tanno rudraḥ pracodayāt {trans}
 
-We know _(vidmahe)_ the Supreme Being _(tatpuruṣa)_, let us meditate _(dhīmahi)_ on the Great God _(mahādeva)_.
-May Rudra _(rudraḥ)_ lead _(pracodayāt)_ us to enlightenment.
+That Person _(tatpuruṣāya)_ we-know _(vidmahe)_, upon the Great-God _(mahādevāya)_ we-meditate _(dhīmahi)_.
+That _(tat)_ for-us _(naḥ)_ may-Rudra _(rudraḥ)_ inspire _(pracodayāt)_.
 
 :::
 ::: stanza
 
 ईशान {sans big}
 
-īsāna {trans}
+īśāna {trans}
 
-### Ishana — Lord — Grace
+### Īśāna — The Ruler — Grace
 
 ॐ ईशान सर्वविद्यानामीश्वरः सर्वभूतानां ब्रह्मादिपति ब्रह्मणोऽधिपतिर् ।  
 ब्रह्मा शिवो मे अस्तु स एव सदाशिव ओम् ॥ {sans}
 
 oṃ īśāna sarvavidyānāmīśvaraḥ sarvabhūtānāṁ  
-brahmādipati brahmaṇo’dhipatir ।  
+brahmādipati brahmaṇo'dhipatir ।  
 brahmā śivo me astu sa eva sadāśiva om ॥ {trans}
 
-Lord _(īsāna)_ of all knowledge _(sarvavidyānām)_, the Lord of all beings _(sarvabhūtānāṁ)_, the Chief _(brahmādipati)_ of the Brahmans _(brahmaṇo'dhipatir)_.
-May Brahman _(brahmā)_ and Shiva _(śivaḥ)_ be with me _(me astu)_, He who is eternally auspicious _(sa eva sadāśiva)_ Om _(om)_.
+O Ruler _(īśāna)_ of-all-knowledge _(sarvavidyānām)_, Lord _(īśvaraḥ)_ of-all-beings _(sarvabhūtānām)_, Chief-of-Brahma _(brahmādipati)_, Over-lord _(adhipatiḥ)_ of-Brahman _(brahmaṇaḥ)_.
+May-Brahma _(brahmā)_ [and] Śiva _(śivaḥ)_ for-me _(me)_ be _(astu)_ — He _(saḥ)_ indeed _(eva)_ [is] Ever-auspicious _(sadāśiva)_ Om _(om)_.
 
 :::
 
+<audio-player title="Uma Mohan song" file="/audio/mohan.mp3" />
+
 ::: stanza
 
-### Shiva Namaskaratha Mantra
+### Śiva Namaskāratha Mantra
 
 नमो हिरण्यबाहवे हिरण्यवर्णाय हिरण्यरूपाय हिरण्यपतये ।  
 अम्बिकापतय उमापतये पशुपतये नमो नमः ॥ {sans}
 
 namo hiraṇyabāhave hiraṇyavarṇāya hiraṇyarūpāya hiraṇyapataye ।  
-ambikāpataya umāpataye paśupataye namo namaḥ ॥ {trans}
+ambikāpataye umāpataye paśupataye namo namaḥ ॥ {trans}
 
-Homage _(namo)_ to the Golden-armed _(hiraṇyabāhave)_, to the Golden-colored _(hiraṇyavarṇāya)_, to the Golden-formed _(hiraṇyarūpāya)_, to the Golden Lord _(hiraṇyapataye)_.
-To the Lord of Ambikā _(ambikāpataye)_, to the Lord of Umā _(umāpataye)_, to the Lord of all beings _(paśupataye)_, homage _(namo namaḥ)_.
+Homage _(namaḥ)_ to the Golden-armed _(hiraṇyabāhave)_, to the Golden-colored _(hiraṇyavarṇāya)_, to the Golden-formed _(hiraṇyarūpāya)_, to the Golden-lord _(hiraṇyapataye)_.
+To the Lord-of-Ambikā _(ambikāpataye)_, to the Lord-of-Umā _(umāpataye)_, to the Lord-of-creatures _(paśupataye)_, homage _(namaḥ)_, homage _(namaḥ)_.
 
 :::
 ::: stanza
 
-### Vishvarupa mantra
+### Viśvarūpa Mantra
 
 ऋतँ सत्यं परं ब्रह्म पुरुषं कृष्णपिङ्गलम् ।  
 ऊर्ध्वरेतं विरूपाक्षं विश्वरूपाय वै नमो नमः ॥ {sans}
 
-ṛtam̐ satyaṃ paraṃ brahma puruṣaṃ kṛṣṇapiṅgalam ।  
-ūrdhvaretaṃ virūpākśaṃ viśvarūpāya vai namo namaḥ ॥ {trans}
+ṛtaṁ satyaṁ paraṁ brahma puruṣaṁ kṛṣṇapiṅgalam ।  
+ūrdhvaretaṁ virūpākṣaṁ viśvarūpāya vai namo namaḥ ॥ {trans}
 
-Order _(ṛtam̐)_, Truth _(satyaṃ)_, the Supreme Brahman _(paraṃ brahma)_, the Divine Spirit _(puruṣaṃ)_, the Dark-gold one _(kṛṣṇapiṅgalam)_,
-The one with ascending energy _(ūrdhvaretaṃ)_, the one with diverse forms _(virūpākṣaṃ)_, I honor and salute _(namo namaḥ)_ the Universal Form _(viśvarūpāya)_.
+Cosmic-order _(ṛtam)_, Truth _(satyam)_, Supreme _(param)_ Brahman _(brahma)_, the Person _(puruṣam)_ dark-and-golden _(kṛṣṇapiṅgalam)_.
+The upward-flowing _(ūrdhvaretam)_, the diverse-eyed _(virūpākṣam)_ — to the Universal-form _(viśvarūpāya)_ indeed _(vai)_ homage _(namaḥ)_, homage _(namaḥ)_.
 
 :::
 ::: stanza
 
-### Rudra mantra
+### Rudra Mantra
 
 सर्वो वै रुद्रस्तस्मै रुद्राय नमो अस्तु ।  
 पुरुषो वै रुद्रः सन्महो नमो नमः ।  
@@ -141,27 +145,30 @@ The one with ascending energy _(ūrdhvaretaṃ)_, the one with diverse forms _(v
 
 sarvo vai rudrastasmai rudrāya namo astu ।  
 puruṣo vai rudraḥ sanmaho namo namaḥ ।  
-viśvaṃ bhūtaṃ bhuvanaṃ citraṃ bahudhā jātaṃ jāyamānaṃ ca yat ।  
+viśvaṁ bhūtaṁ bhuvanaṁ citraṁ bahudhā jātaṁ jāyamānaṁ ca yat ।  
 sarvo hyeṣa rudrastasmai rudrāya namo astu ॥ {trans}
 
-Homage _(namo astu)_ to Rudra _(rudrāya)_ who is everything _(sarvo vai)_.
-The person _(puruṣo)_ is indeed Rudra _(rudraḥ)_, homage _(namo namaḥ)_ to the exalted one _(sanmaho)_.
-To the universe _(viśvaṃ)_, the beings _(bhūtaṃ)_, the worlds _(bhuvanaṃ)_, the diverse _(citraṃ)_, the many-born _(bahudhā jātaṃ)_, and those being born _(jāyamānaṃ ca)_.
-He is indeed everything _(sarvo)_ and all forms of Rudra _(hyeṣa rudraḥ)_, to him _(tasmai)_ homage _(namo astu)_.
+All _(sarvaḥ)_ indeed _(vai)_ [is] Rudra _(rudraḥ)_ — to-him _(tasmai)_, to-Rudra _(rudrāya)_ homage _(namaḥ)_ let-it-be _(astu)_.
+The Person _(puruṣaḥ)_ indeed _(vai)_ [is] Rudra _(rudraḥ)_, the Great-being _(sanmahaḥ)_ — homage _(namaḥ)_, homage _(namaḥ)_.
+The universe _(viśvam)_, [all] beings _(bhūtam)_, [all] worlds _(bhuvanam)_, [all] wondrous-things _(citram)_, [all] many-ways _(bahudhā)_ born _(jātam)_ and _(ca)_ being-born _(jāyamānam)_ — whatever _(yat)_.
+All _(sarvaḥ)_ indeed _(hi)_ this _(eṣaḥ)_ [is] Rudra _(rudraḥ)_ — to-him _(tasmai)_, to-Rudra _(rudrāya)_ homage _(namaḥ)_ let-it-be _(astu)_.
 
 कद्रुद्राय प्रचेतसे मीढुष्टमाय तव्यसे ।  
 वोचेम शंतमँ हृदे ।  
 सर्वोह्येष रुद्रस्तस्मै रुद्राय नमो अस्तु ॥ {sans}
 
 kadrudrāya pracetase mīḍhuṣṭamāya tavyase ।  
-vocema śaṃtamam̐ hṛde ।  
+vocema śaṃtamaṁ hṛde ।  
 sarvohyeṣa rudrastasmai rudrāya namo astu ॥ {trans}
 
-To the Rudra _(rudrāya)_ who is the essence of Rudra _(kadrudrāya)_,
-To the perceptive one _(pracetase)_, the supreme being _(mīḍhuṣṭamāya)_ worthy of reverence _(tavyase)_.
-We speak _(vocema)_ the peaceful one _(śaṃtamam̐)_ from the heart _(hṛde)_.
-He is indeed all _(sarvo)_ forms of Rudra _(hyeṣa rudraḥ)_; to him _(tasmai)_ homage _(namo astu)_.
+To-which-Rudra _(kadrudrāya)_ the All-conscious _(pracetase)_, to the Supremely-generous _(mīḍhuṣṭamāya)_, to the Strength-possessing _(tavyase)_.
+May-we-speak _(vocema)_ the Most-peaceful _(śaṃtamam)_ in-the-heart _(hṛde)_.
+All _(sarvaḥ)_ indeed _(hi)_ this _(eṣaḥ)_ [is] Rudra _(rudraḥ)_ — to-him _(tasmai)_, to-Rudra _(rudrāya)_ homage _(namaḥ)_ let-it-be _(astu)_.
 
 :::
 
-<audio-player title="Uma Mohan" file="/audio/mohan.mp3" />
+This supreme mantra-cycle reveals the five fundamental aspects (_pañcakṛtya_) through which Śiva-consciousness operates as the complete cosmic process. Each face (_mukha_) represents not sequential stages but simultaneous, interpenetrating dimensions of the one divine activity.
+
+**Sadyojāta** embodies the spontaneous arising (_sṛṣṭi_) of manifestation from pure potentiality — consciousness appearing as world without ever ceasing to be consciousness. **Vāmadeva** governs the sustaining (_sthiti_) power that maintains the cosmic display in perfect balance. **Aghora** wields the dissolving (_saṃhāra_) fire that returns all forms to their source. **Tatpuruṣa** exercises the concealing (_tirodhāna_) function that veils unity in apparent multiplicity. **Īśāna** bestows the revealing (_anugraha_) grace through which recognition dawns.
+
+The concluding mantras establish the all-pervasive nature of this Rudra-consciousness as both the cosmic Person (_puruṣa_) and the intimate presence dwelling in the heart-cave (_hṛdayaguha_). The final declaration — _sarvo hi eṣa rudraḥ_ — affirms the ultimate non-dual truth: all this manifest universe, in every form and transformation, is nothing other than the play of supreme Śiva-consciousness recognizing itself as all existence.

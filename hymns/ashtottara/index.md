@@ -7,7 +7,7 @@ date: 2021-03-04
 tags: hymn
 ---
 
-https://youtu.be/9cZSdatRCUI
+<audio-player title="Purnamadah" file="/audio/Shiva_Astottara_Satanama_Stotram_Satwika_Mohan_ft_Shri_Mohana_Krishna.mp3" />
 
 Стихотворный перевод с санскрита: NN.
 
