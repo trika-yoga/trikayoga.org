@@ -1,6 +1,6 @@
 ---
 title: Shiva Gayatri Mantra
-description: Rudra devotion mantra
+description: Appears in the Mahānārāyaṇa Upaniṣad (10.17), which is part of the Taittirīya Āraṇyaka of the Kṛṣṇa Yajurveda
 sans: शिव गायत्री मन्त्र
 trans: śiva gāyatrī mantra
 tags: mantra
@@ -33,7 +33,3 @@ The concluding prayer — _tan no rudraḥ pracodayāt_ — invokes Rudra's insp
 This _gāyatrī_ thus serves as both devotional practice and direct pointing (_pratyabhijñā_) toward the recognition of our essential nature as Śiva-consciousness itself.
 
 ---
-
-The Śiva Gāyatrī mantra appears in the Mahānārāyaṇa Upaniṣad (also called the Yājñavalkya-kāṇḍa or Mahānārāyaṇīya), specifically in section 10.17 in some recensions.
-
-The Mahānārāyaṇa Upaniṣad itself is traditionally placed within the Taittirīya Āraṇyaka of the Kṛṣṇa Yajurveda. Different branches (śākhās) have slight variations in order and wording, but in the Andhra and Drāviḍa recensions of the Taittirīya Āraṇyaka, this mantra is indeed found.
