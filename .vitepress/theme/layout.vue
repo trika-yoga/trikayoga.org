@@ -53,6 +53,6 @@ const route = useRoute();
 }
 
 .content {
-  @apply px-3 sm: px-4 pb-16;
+  @apply px-3 sm:px-4 pb-16;
 }
 </style>

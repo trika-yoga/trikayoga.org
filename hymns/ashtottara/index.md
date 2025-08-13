@@ -7,7 +7,7 @@ date: 2021-03-04
 tags: hymn
 ---
 
-<audio-player title="Purnamadah" file="/audio/Shiva_Astottara_Satanama_Stotram_Satwika_Mohan_ft_Shri_Mohana_Krishna.mp3" />
+<audio-player title="Satwika Mohan ft. Shri Mohana Krishna" file="/audio/Shiva_Astottara_Satanama_Stotram_Satwika_Mohan_ft_Shri_Mohana_Krishna.mp3" />
 
 Стихотворный перевод с санскрита: NN.
 
@@ -205,6 +205,10 @@ iti śrī śivāṣṭottaraśatanāmastrotram samāptam ॥ {trans}
 
 ![Ноты для пения](./108.svg)
 
+<youtube-embed id="Iah-GT_0144" />
+
+<audio-player title="Shatanamavali" file="/audio/shiva-ashtottara-shatanamavali.mp3" />
+
 ::: stanza
 
 ## Поимённый перевод с санскрита: Савитри Деви
@@ -213,15 +217,15 @@ iti śrī śivāṣṭottaraśatanāmastrotram samāptam ॥ {trans}
 <tbody>
 <tr>
 <td>№</td>
-<td>Деванагари</td>
-<td>Транслитерация</td>
-<td>Перевод на русский</td>
+<td>Devanagari</td>
+<td>Transliteration</td>
+<td>Translation</td>
 </tr>
 <tr>
 <td>1</td>
 <td>ॐ शिवाय नमः</td>
 <td>om śivāya namaḥ</td>
-<td>Благой</td>
+<td>The Auspicious One</td>
 </tr>
 <tr>
 <td>2</td>
