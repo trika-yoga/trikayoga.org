@@ -1,6 +1,7 @@
 ---
 title: IAST Transliteration
 date: 2025-08-13
+tags: sanskrit
 ---
 
 This chart shows one of the mappings between Devan&#x0101;gar&#x012B; and

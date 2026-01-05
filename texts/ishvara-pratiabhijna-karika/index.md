@@ -2430,3 +2430,11 @@ Janasyāyatnasiddhyarthamudayākarasūnunā|
 For the ordinary person to attain Siddhi or Perfection effortlessly _(janasya ayatna-siddhi-artham)_, this _(iyam)_ Īśvarapratyabhijñā --lit. Recognition of the Lord-- _(īśvara-pratyabhijñā)_ has been made/presented _(upapāditā)_ by Utpala _(utpalena)_, the son of Udayākara --lit. one who is a mine of prosperity-- _(udayākara-sūnunā)_.
 
 :::
+
+::: stanza
+
+Authoritative word-by-word translation by Guru Gabriel Pradiipaka. 
+
+First published on the [Sanskrit Trika Shaivism](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-iishvarapratyabhijnaakaarikaas/1003) web-site.
+
+:::

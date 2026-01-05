@@ -3,7 +3,7 @@ title: Shiva Sutra
 description: Great scripture in one triangle for contemplation
 sans: शिवसूत्रा
 trans: śivasūtrā
-tags: yantra
+tags: diagram
 date: 2021-05-05
 cover: /img/trika-shiva-sutra.svg
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sanskrit consonant ligatures 
-tags: scheme
+tags: sanskrit
 ---
 
 

@@ -2,6 +2,7 @@
 title: Sanskrit alphabet
 description: Varnamala
 date: 2022-06-16
+tags: sanskrit
 ---
 
 <style scoped>
