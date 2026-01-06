@@ -7,6 +7,8 @@ trans: Ṣaṭtriṁśattattvasandoha
 
 Amṛtānandanātha, 12th century
 
+Word-by-word translation by Guru Gabriel Pradiipaka at [Sanskrit-Trika-Shaivism](https://www.sanskrit-trikashaivism.com/en/shattrimshattattvasandoha-1-trika-scriptures-non-dual-shaivism-of-kashmir/544#note7Stanza4parent) web-site.
+
 ::: stanza 1
 
 यदयमनुत्तरमूर्तिर्नजेच्छयाखिलमिदं जगत्स्रष्टुम्।   
